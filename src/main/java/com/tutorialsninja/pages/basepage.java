@@ -61,7 +61,8 @@ public class basepage {
 	 }
 	 }
 	
-	
+
+
 	public void Initializebrower_and_open_application_url(String browsername,String url)
 	{
 		if(browsername.equals("Chrome")) {
