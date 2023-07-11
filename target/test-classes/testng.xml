@@ -4,9 +4,11 @@
  <listeners>
   	<listener class-name="com.tutorialsninja.listeners.MyListeners" />
   </listeners>
-  <test name="Test">
+  <test name="LoginTest">
     <classes>
- <class name="com.tutorialsninja.testcases.Login"/>
+ <class name="com.tutorialsninja.testcases.Logintest"/>
+  <class name="com.tutorialsninja.testcases.LoginTestForNoOfUnsucessfullloginattempts"/>
+ 
       
     </classes>
   </test> <!-- Test -->
