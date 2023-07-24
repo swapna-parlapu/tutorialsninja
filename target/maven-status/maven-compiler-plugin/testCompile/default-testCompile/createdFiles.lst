@@ -1,0 +1,9 @@
+com\tutorialsninja\testcases\LoginTestForNoOfUnsucessfulloginattempts.class
+com\tutorialsninja\testcases\productcompare.class
+com\tutorialsninja\testcases\loginDDTest.class
+com\tutorialsninja\testcases\LoginTest.class
+com\tutorialsninja\testcases\logout.class
+com\tutorialsninja\testcases\search.class
+com\tutorialsninja\testcases\Wishlist.class
+com\tutorialsninja\testcases\register.class
+com\tutorialninja\base\basetest.class

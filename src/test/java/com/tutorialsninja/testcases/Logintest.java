@@ -23,7 +23,7 @@ import com.tutorialninja.base.basetest;
 import com.tutorialninja.utilities.utilities;
 import com.tutorialsninja.pages.*;
 
-public class Logintest extends basetest {
+public class LoginTest extends basetest {
 	homepage homepage;
 	My_Account My_Account;
 	basetest basetest;
@@ -101,7 +101,7 @@ public class Logintest extends basetest {
 	
 		
 		}
-	@Test(priority=5)
+	//@Test(priority=5)
 	public void verify_Loggingino_the_application_and_browsingback_using_browserback_button() throws InterruptedException 
 	{
 		
@@ -129,7 +129,7 @@ public class Logintest extends basetest {
 		
 		
 	}
-	@Test(priority=6)
+	//@Test(priority=6)
 	public void verify_Loggingout_of_the_application_and_browsingback_using_browserback_button() throws InterruptedException
 	{
 

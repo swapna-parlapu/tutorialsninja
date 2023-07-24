@@ -41,7 +41,7 @@ public class homepage extends basepage{
 		utilities.getwebdriverwait(driver, myAccountDropMenu);
 		myAccountDropMenu.click();
 		utilities.getwebdriverwait(driver, login);
-		login.click();
+		utilities.getjavascriptexceutor(driver).executeScript("arguments[0].click();", login);
 		return  new Loginpage(driver);
 		
 	}

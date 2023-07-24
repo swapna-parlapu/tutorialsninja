@@ -38,7 +38,7 @@ public class Wishlist extends basetest{
 		
 		
 	}
-	//@AfterClass
+	@AfterClass
 	public void close()
 	{
 		driver.close();

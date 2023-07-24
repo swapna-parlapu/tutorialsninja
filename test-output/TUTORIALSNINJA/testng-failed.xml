@@ -6,14 +6,15 @@
   </listeners>
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="com.tutorialsninja.testcases.search">
+      <class name="com.tutorialsninja.testcases.LoginTest">
         <methods>
-          <include name="verifyvalidproductinsearchtextbox"/>
-          <include name="close"/>
-          <include name="verifyinvalidproductinsearchtextbox"/>
+          <include name="verify_Loggingino_the_application_and_browsingback_using_browserback_button"/>
+          <include name="verify_Loggingout_of_the_application_and_browsingback_using_browserback_button"/>
           <include name="openbrowser_and_enter_url"/>
+          <include name="navigatetologin"/>
+          <include name="close"/>
         </methods>
-      </class> <!-- com.tutorialsninja.testcases.search -->
+      </class> <!-- com.tutorialsninja.testcases.LoginTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [TUTORIALSNINJA] -->

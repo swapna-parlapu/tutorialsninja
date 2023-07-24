@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-24T18:32:17 IST" name="Surefire suite" finished-at="2023-07-24T18:34:40 IST" duration-ms="143421">
+    <groups>
+    </groups>
+    <test started-at="2023-07-24T18:32:17 IST" name="Surefire test" finished-at="2023-07-24T18:34:40 IST" duration-ms="143421">
+      <class name="com.tutorialsninja.testcases.LoginTest">
+        <test-method is-config="true" signature="openbrowser_and_enter_url()[pri:0, instance:com.tutorialsninja.testcases.LoginTest@3ba9ad43]" started-at="2023-07-24T18:33:22 IST" name="openbrowser_and_enter_url" finished-at="2023-07-24T18:33:53 IST" duration-ms="31698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser_and_enter_url -->
+        <test-method is-config="true" signature="navigatetologin()[pri:0, instance:com.tutorialsninja.testcases.LoginTest@3ba9ad43]" started-at="2023-07-24T18:33:53 IST" name="navigatetologin" finished-at="2023-07-24T18:33:54 IST" duration-ms="820" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatetologin -->
+        <test-method signature="verify_login_with_valid_credencials()[pri:2, instance:com.tutorialsninja.testcases.LoginTest@3ba9ad43]" started-at="2023-07-24T18:33:54 IST" name="verify_login_with_valid_credencials" finished-at="2023-07-24T18:33:57 IST" duration-ms="2973" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_login_with_valid_credencials -->
+        <test-method is-config="true" signature="navigatetologin()[pri:0, instance:com.tutorialsninja.testcases.LoginTest@3ba9ad43]" started-at="2023-07-24T18:33:57 IST" name="navigatetologin" finished-at="2023-07-24T18:33:58 IST" duration-ms="740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatetologin -->
+        <test-method signature="verifyloggingintoapplicationusingkeyboardkeys()[pri:3, instance:com.tutorialsninja.testcases.LoginTest@3ba9ad43]" started-at="2023-07-24T18:33:58 IST" name="verifyloggingintoapplicationusingkeyboardkeys" finished-at="2023-07-24T18:34:01 IST" duration-ms="3538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyloggingintoapplicationusingkeyboardkeys -->
+        <test-method is-config="true" signature="navigatetologin()[pri:0, instance:com.tutorialsninja.testcases.LoginTest@3ba9ad43]" started-at="2023-07-24T18:34:01 IST" name="navigatetologin" finished-at="2023-07-24T18:34:02 IST" duration-ms="973" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatetologin -->
+        <test-method signature="verify_forgetpasswordlink_in_loginpage()[pri:4, instance:com.tutorialsninja.testcases.LoginTest@3ba9ad43]" started-at="2023-07-24T18:34:02 IST" name="verify_forgetpasswordlink_in_loginpage" finished-at="2023-07-24T18:34:04 IST" duration-ms="1804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_forgetpasswordlink_in_loginpage -->
+        <test-method is-config="true" signature="navigatetologin()[pri:0, instance:com.tutorialsninja.testcases.LoginTest@3ba9ad43]" started-at="2023-07-24T18:34:04 IST" name="navigatetologin" finished-at="2023-07-24T18:34:05 IST" duration-ms="506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatetologin -->
+        <test-method signature="verify_password_is_not_visible_in_pagesource()[pri:8, instance:com.tutorialsninja.testcases.LoginTest@3ba9ad43]" started-at="2023-07-24T18:34:05 IST" name="verify_password_is_not_visible_in_pagesource" finished-at="2023-07-24T18:34:05 IST" duration-ms="423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_password_is_not_visible_in_pagesource -->
+        <test-method is-config="true" signature="navigatetologin()[pri:0, instance:com.tutorialsninja.testcases.LoginTest@3ba9ad43]" started-at="2023-07-24T18:34:05 IST" name="navigatetologin" finished-at="2023-07-24T18:34:06 IST" duration-ms="506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatetologin -->
+        <test-method signature="Verify_Logging_into_the_Application_closing_the_Browser_without_loggingout_and_opening_the_application_in_the_Browser_again()[pri:11, instance:com.tutorialsninja.testcases.LoginTest@3ba9ad43]" started-at="2023-07-24T18:34:06 IST" name="Verify_Logging_into_the_Application_closing_the_Browser_without_loggingout_and_opening_the_application_in_the_Browser_again" finished-at="2023-07-24T18:34:39 IST" duration-ms="33667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Logging_into_the_Application_closing_the_Browser_without_loggingout_and_opening_the_application_in_the_Browser_again -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.tutorialsninja.testcases.LoginTest@3ba9ad43]" started-at="2023-07-24T18:34:39 IST" name="close" finished-at="2023-07-24T18:34:40 IST" duration-ms="981" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.tutorialsninja.testcases.LoginTest -->
+      <class name="com.tutorialsninja.testcases.loginDDTest">
+        <test-method is-config="true" signature="openbrowser_and_enter_url()[pri:0, instance:com.tutorialsninja.testcases.loginDDTest@6ef888f6]" started-at="2023-07-24T18:32:17 IST" name="openbrowser_and_enter_url" finished-at="2023-07-24T18:32:57 IST" duration-ms="40496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser_and_enter_url -->
+        <test-method is-config="true" signature="navigatetologin()[pri:0, instance:com.tutorialsninja.testcases.loginDDTest@6ef888f6]" started-at="2023-07-24T18:33:06 IST" name="navigatetologin" finished-at="2023-07-24T18:33:07 IST" duration-ms="1701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatetologin -->
+        <test-method signature="verify_login_with_invalid_credentials(java.lang.String,java.lang.String)[pri:1, instance:com.tutorialsninja.testcases.loginDDTest@6ef888f6]" started-at="2023-07-24T18:33:07 IST" name="verify_login_with_invalid_credentials" data-provider="invalidcrendencialsupplier" finished-at="2023-07-24T18:33:09 IST" duration-ms="1624" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[swapnaprlapu02081993@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[snehith1@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_login_with_invalid_credentials -->
+        <test-method is-config="true" signature="navigatetologin()[pri:0, instance:com.tutorialsninja.testcases.loginDDTest@6ef888f6]" started-at="2023-07-24T18:33:09 IST" name="navigatetologin" finished-at="2023-07-24T18:33:09 IST" duration-ms="530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatetologin -->
+        <test-method signature="verify_login_with_invalid_credentials(java.lang.String,java.lang.String)[pri:1, instance:com.tutorialsninja.testcases.loginDDTest@6ef888f6]" started-at="2023-07-24T18:33:09 IST" name="verify_login_with_invalid_credentials" data-provider="invalidcrendencialsupplier" finished-at="2023-07-24T18:33:10 IST" duration-ms="983" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[swpna@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_login_with_invalid_credentials -->
+        <test-method is-config="true" signature="navigatetologin()[pri:0, instance:com.tutorialsninja.testcases.loginDDTest@6ef888f6]" started-at="2023-07-24T18:33:10 IST" name="navigatetologin" finished-at="2023-07-24T18:33:11 IST" duration-ms="483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatetologin -->
+        <test-method signature="verify_login_with_invalid_credentials(java.lang.String,java.lang.String)[pri:1, instance:com.tutorialsninja.testcases.loginDDTest@6ef888f6]" started-at="2023-07-24T18:33:11 IST" name="verify_login_with_invalid_credentials" data-provider="invalidcrendencialsupplier" finished-at="2023-07-24T18:33:12 IST" duration-ms="1274" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sa@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[snehith1@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_login_with_invalid_credentials -->
+        <test-method is-config="true" signature="navigatetologin()[pri:0, instance:com.tutorialsninja.testcases.loginDDTest@6ef888f6]" started-at="2023-07-24T18:33:13 IST" name="navigatetologin" finished-at="2023-07-24T18:33:13 IST" duration-ms="503" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatetologin -->
+        <test-method signature="verify_login_with_validsetof_crendentials(java.lang.String,java.lang.String)[pri:2, instance:com.tutorialsninja.testcases.loginDDTest@6ef888f6]" started-at="2023-07-24T18:33:13 IST" name="verify_login_with_validsetof_crendentials" data-provider="validcrendentialsupplier" finished-at="2023-07-24T18:33:16 IST" duration-ms="2400" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[swa@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_login_with_validsetof_crendentials -->
+        <test-method is-config="true" signature="navigatetologin()[pri:0, instance:com.tutorialsninja.testcases.loginDDTest@6ef888f6]" started-at="2023-07-24T18:33:16 IST" name="navigatetologin" finished-at="2023-07-24T18:33:19 IST" duration-ms="3651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatetologin -->
+        <test-method signature="verify_login_with_validsetof_crendentials(java.lang.String,java.lang.String)[pri:2, instance:com.tutorialsninja.testcases.loginDDTest@6ef888f6]" started-at="2023-07-24T18:33:19 IST" name="verify_login_with_validsetof_crendentials" data-provider="validcrendentialsupplier" finished-at="2023-07-24T18:33:22 IST" duration-ms="2295" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pna@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_login_with_validsetof_crendentials -->
+      </class> <!-- com.tutorialsninja.testcases.loginDDTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
