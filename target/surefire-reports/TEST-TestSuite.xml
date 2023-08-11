@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="149.088" tests="10" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="161.76" tests="10" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin"/>
-    <property name="sun.java.command" value="C:\Users\NAYAK\AppData\Local\Temp\surefire8374854592470564108\surefirebooter-20230724183211655_3.jar C:\Users\NAYAK\AppData\Local\Temp\surefire8374854592470564108 2023-07-24T18-32-09_750-jvmRun1 surefire-20230724183211655_1tmp surefire_0-20230724183211655_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\NAYAK\AppData\Local\Temp\surefire18275951146934232288\surefirebooter-20230811074748635_3.jar C:\Users\NAYAK\AppData\Local\Temp\surefire18275951146934232288 2023-08-11T07-47-47_341-jvmRun1 surefire-20230811074748635_1tmp surefire_0-20230811074748635_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\NAYAK\HybridTestNGFramework\Tutorialsninjaproj\target\test-classes;C:\Users\NAYAK\HybridTestNGFramework\Tutorialsninjaproj\target\classes;C:\Users\NAYAK\.m2\repository\org\testng\testng\7.7.1\testng-7.7.1.jar;C:\Users\NAYAK\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\NAYAK\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\NAYAK\.m2\repository\org\webjars\jquery\3.6.1\jquery-3.6.1.jar;C:\Users\NAYAK\.m2\repository\org\seleniumhq\selenium\selenium-java\4.9.1\selenium-java-4.9.1.jar;C:\Users\NAYAK\.m2\repository\org\seleniumhq\selenium\selenium-api\4.9.1\selenium-api-4.9.1.jar;C:\Users\NAYAK\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.9.1\selenium-chrome-driver-4.9.1.jar;C:\Users\NAYAK\.m2\repository\com\google\auto\service\auto-service-annotations\1.0.1\auto-service-annotations-1.0.1.jar;C:\Users\NAYAK\.m2\repository\com\google\auto\service\auto-service\1.0.1\auto-service-1.0.1.jar;C:\Users\NAYAK\.m2\repository\com\google\auto\auto-common\1.2\auto-common-1.2.jar;C:\Users\NAYAK\.m2\repository\com\google\guava\guava\31.1-jre\guava-31.1-jre.jar;C:\Users\NAYAK\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\NAYAK\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\NAYAK\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\NAYAK\.m2\repository\org\checkerframework\checker-qual\3.12.0\checker-qual-3.12.0.jar;C:\Users\NAYAK\.m2\repository\com\google\errorprone\error_prone_annotations\2.11.0\error_prone_annotations-2.11.0.jar;C:\Users\NAYAK\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\NAYAK\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.9.1\selenium-chromium-driver-4.9.1.jar;C:\Users\NAYAK\.m2\repository\org\seleniumhq\selenium\selenium-json\4.9.1\selenium-json-4.9.1.jar;C:\Users\NAYAK\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.9.1\selenium-manager-4.9.1.jar;C:\Users\NAYAK\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v111\4.9.1\selenium-devtools-v111-4.9.1.jar;C:\Users\NAYAK\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v112\4.9.1\selenium-devtools-v112-4.9.1.jar;C:\Users\NAYAK\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v113\4.9.1\selenium-devtools-v113-4.9.1.jar;C:\Users\NAYAK\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v85\4.9.1\selenium-devtools-v85-4.9.1.jar;C:\Users\NAYAK\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.9.1\selenium-edge-driver-4.9.1.jar;C:\Users\NAYAK\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.9.1\selenium-firefox-driver-4.9.1.jar;C:\Users\NAYAK\.m2\repository\org\seleniumhq\selenium\selenium-http\4.9.1\selenium-http-4.9.1.jar;C:\Users\NAYAK\.m2\repository\dev\failsafe\failsafe\3.3.1\failsafe-3.3.1.jar;C:\Users\NAYAK\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.9.1\selenium-ie-driver-4.9.1.jar;C:\Users\NAYAK\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.9.1\selenium-remote-driver-4.9.1.jar;C:\Users\NAYAK\.m2\repository\io\netty\netty-buffer\4.1.91.Final\netty-buffer-4.1.91.Final.jar;C:\Users\NAYAK\.m2\repository\io\netty\netty-codec-http\4.1.91.Final\netty-codec-http-4.1.91.Final.jar;C:\Users\NAYAK\.m2\repository\io\netty\netty-codec\4.1.91.Final\netty-codec-4.1.91.Final.jar;C:\Users\NAYAK\.m2\repository\io\netty\netty-handler\4.1.91.Final\netty-handler-4.1.91.Final.jar;C:\Users\NAYAK\.m2\repository\io\netty\netty-common\4.1.91.Final\netty-common-4.1.91.Final.jar;C:\Users\NAYAK\.m2\repository\io\netty\netty-transport-classes-epoll\4.1.91.Final\netty-transport-classes-epoll-4.1.91.Final.jar;C:\Users\NAYAK\.m2\repository\io\netty\netty-transport-classes-kqueue\4.1.91.Final\netty-transport-classes-kqueue-4.1.91.Final.jar;C:\Users\NAYAK\.m2\repository\io\netty\netty-transport-native-epoll\4.1.91.Final\netty-transport-native-epoll-4.1.91.Final.jar;C:\Users\NAYAK\.m2\repository\io\netty\netty-transport-native-kqueue\4.1.91.Final\netty-transport-native-kqueue-4.1.91.Final.jar;C:\Users\NAYAK\.m2\repository\io\netty\netty-transport-native-unix-common\4.1.91.Final\netty-transport-native-unix-common-4.1.91.Final.jar;C:\Users\NAYAK\.m2\repository\io\netty\netty-transport\4.1.91.Final\netty-transport-4.1.91.Final.jar;C:\Users\NAYAK\.m2\repository\io\netty\netty-resolver\4.1.91.Final\netty-resolver-4.1.91.Final.jar;C:\Users\NAYAK\.m2\repository\io\opentelemetry\opentelemetry-api\1.25.0\opentelemetry-api-1.25.0.jar;C:\Users\NAYAK\.m2\repository\io\opentelemetry\opentelemetry-context\1.25.0\opentelemetry-context-1.25.0.jar;C:\Users\NAYAK\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.25.0\opentelemetry-exporter-logging-1.25.0.jar;C:\Users\NAYAK\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.25.0\opentelemetry-sdk-metrics-1.25.0.jar;C:\Users\NAYAK\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.25.0-alpha\opentelemetry-sdk-logs-1.25.0-alpha.jar;C:\Users\NAYAK\.m2\repository\io\opentelemetry\opentelemetry-api-logs\1.25.0-alpha\opentelemetry-api-logs-1.25.0-alpha.jar;C:\Users\NAYAK\.m2\repository\io\opentelemetry\opentelemetry-api-events\1.25.0-alpha\opentelemetry-api-events-1.25.0-alpha.jar;C:\Users\NAYAK\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.25.0\opentelemetry-sdk-common-1.25.0.jar;C:\Users\NAYAK\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.25.0\opentelemetry-sdk-extension-autoconfigure-spi-1.25.0.jar;C:\Users\NAYAK\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.25.0-alpha\opentelemetry-sdk-extension-autoconfigure-1.25.0-alpha.jar;C:\Users\NAYAK\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.25.0\opentelemetry-sdk-trace-1.25.0.jar;C:\Users\NAYAK\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.25.0\opentelemetry-sdk-1.25.0.jar;C:\Users\NAYAK\.m2\repository\io\opentelemetry\opentelemetry-semconv\1.25.0-alpha\opentelemetry-semconv-1.25.0-alpha.jar;C:\Users\NAYAK\.m2\repository\io\ous\jtoml\2.0.0\jtoml-2.0.0.jar;C:\Users\NAYAK\.m2\repository\net\bytebuddy\byte-buddy\1.14.4\byte-buddy-1.14.4.jar;C:\Users\NAYAK\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\NAYAK\.m2\repository\org\asynchttpclient\async-http-client\2.12.3\async-http-client-2.12.3.jar;C:\Users\NAYAK\.m2\repository\org\asynchttpclient\async-http-client-netty-utils\2.12.3\async-http-client-netty-utils-2.12.3.jar;C:\Users\NAYAK\.m2\repository\io\netty\netty-codec-socks\4.1.60.Final\netty-codec-socks-4.1.60.Final.jar;C:\Users\NAYAK\.m2\repository\io\netty\netty-handler-proxy\4.1.60.Final\netty-handler-proxy-4.1.60.Final.jar;C:\Users\NAYAK\.m2\repository\io\netty\netty-transport-native-epoll\4.1.60.Final\netty-transport-native-epoll-4.1.60.Final-linux-x86_64.jar;C:\Users\NAYAK\.m2\repository\io\netty\netty-transport-native-kqueue\4.1.60.Final\netty-transport-native-kqueue-4.1.60.Final-osx-x86_64.jar;C:\Users\NAYAK\.m2\repository\com\typesafe\netty\netty-reactive-streams\2.0.4\netty-reactive-streams-2.0.4.jar;C:\Users\NAYAK\.m2\repository\com\sun\activation\jakarta.activation\1.2.2\jakarta.activation-1.2.2.jar;C:\Users\NAYAK\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.9.1\selenium-safari-driver-4.9.1.jar;C:\Users\NAYAK\.m2\repository\org\seleniumhq\selenium\selenium-support\4.9.1\selenium-support-4.9.1.jar;C:\Users\NAYAK\.m2\repository\org\apache\poi\poi-ooxml\5.2.3\poi-ooxml-5.2.3.jar;C:\Users\NAYAK\.m2\repository\org\apache\poi\poi-ooxml-lite\5.2.3\poi-ooxml-lite-5.2.3.jar;C:\Users\NAYAK\.m2\repository\org\apache\xmlbeans\xmlbeans\5.1.1\xmlbeans-5.1.1.jar;C:\Users\NAYAK\.m2\repository\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\Users\NAYAK\.m2\repository\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\NAYAK\.m2\repository\com\github\virtuald\curvesapi\1.07\curvesapi-1.07.jar;C:\Users\NAYAK\.m2\repository\org\apache\logging\log4j\log4j-api\2.18.0\log4j-api-2.18.0.jar;C:\Users\NAYAK\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\NAYAK\.m2\repository\org\apache\poi\poi\5.2.3\poi-5.2.3.jar;C:\Users\NAYAK\.m2\repository\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\NAYAK\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\NAYAK\.m2\repository\com\zaxxer\SparseBitSet\1.2\SparseBitSet-1.2.jar;C:\Users\NAYAK\.m2\repository\org\apache\poi\poi-ooxml-schemas\4.1.2\poi-ooxml-schemas-4.1.2.jar;C:\Users\NAYAK\.m2\repository\com\aventstack\extentreports\5.0.9\extentreports-5.0.9.jar;C:\Users\NAYAK\.m2\repository\io\reactivex\rxjava3\rxjava\3.0.4\rxjava-3.0.4.jar;C:\Users\NAYAK\.m2\repository\org\reactivestreams\reactive-streams\1.0.3\reactive-streams-1.0.3.jar;C:\Users\NAYAK\.m2\repository\org\freemarker\freemarker\2.3.30\freemarker-2.3.30.jar;C:\Users\NAYAK\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\NAYAK\.m2\repository\org\projectlombok\lombok\1.18.28\lombok-1.18.28.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\NAYAK\AppData\Local\Temp\surefire8374854592470564108\surefirebooter-20230724183211655_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\NAYAK\AppData\Local\Temp\surefire18275951146934232288\surefirebooter-20230811074748635_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.7+8-LTS-224"/>
@@ -56,41 +56,46 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="verify_login_with_invalid_credentials[swapnaprlapu02081993@gmail.com, snehith1@](1)" classname="com.tutorialsninja.testcases.loginDDTest" time="1.625">
+  <testcase name="verify_login_with_invalid_credentials[swapnaprlapu02081993@gmail.com, snehith1@](1)" classname="com.tutorialsninja.testcases.loginDDTest" time="3.561">
     <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
 SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
-Jul 24, 2023 6:32:17 PM org.openqa.selenium.manager.SeleniumManager getDriverPath
+Aug 11, 2023 7:47:56 AM org.openqa.selenium.manager.SeleniumManager getDriverPath
 INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+Aug 11, 2023 7:48:05 AM org.openqa.selenium.manager.SeleniumManager lambda$runCommand$1
+WARNING: Error getting version of chromedriver 115. Retrying with chromedriver 114 (attempt 1/5)
 ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...
-Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 33954
+Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 38308
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-Jul 24, 2023 6:32:51 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 114, so returning the closest version found: 113
+[1691720308.978][WARNING]: This version of ChromeDriver has not been tested with Chrome version 115.
+[1691720313.292][WARNING]: Timed out connecting to Chrome, retrying...
+Aug 11, 2023 7:48:37 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 115, so returning the closest version found: 113
 ]]></system-err>
   </testcase>
-  <testcase name="verify_login_with_invalid_credentials[swpna@gmail.com, 1234](2)" classname="com.tutorialsninja.testcases.loginDDTest" time="0.983"/>
-  <testcase name="verify_login_with_invalid_credentials[sa@gmail.com, snehith1@](3)" classname="com.tutorialsninja.testcases.loginDDTest" time="1.273"/>
-  <testcase name="verify_login_with_validsetof_crendentials[swa@gmail.com, 12345](1)" classname="com.tutorialsninja.testcases.loginDDTest" time="2.399"/>
-  <testcase name="verify_login_with_validsetof_crendentials[pna@gmail.com, 12345](2)" classname="com.tutorialsninja.testcases.loginDDTest" time="2.287"/>
-  <testcase name="verify_login_with_valid_credencials" classname="com.tutorialsninja.testcases.LoginTest" time="2.973">
-    <system-err><![CDATA[Jul 24, 2023 6:33:22 PM org.openqa.selenium.manager.SeleniumManager getDriverPath
+  <testcase name="verify_login_with_invalid_credentials[swpna@gmail.com, 1234](2)" classname="com.tutorialsninja.testcases.loginDDTest" time="1.698"/>
+  <testcase name="verify_login_with_invalid_credentials[sa@gmail.com, snehith1@](3)" classname="com.tutorialsninja.testcases.loginDDTest" time="0.968"/>
+  <testcase name="verify_login_with_validsetof_crendentials[swa@gmail.com, 12345](1)" classname="com.tutorialsninja.testcases.loginDDTest" time="2.709"/>
+  <testcase name="verify_login_with_validsetof_crendentials[pna@gmail.com, 12345](2)" classname="com.tutorialsninja.testcases.loginDDTest" time="2.221"/>
+  <testcase name="verify_login_with_valid_credencials" classname="com.tutorialsninja.testcases.LoginTest" time="4.912">
+    <system-err><![CDATA[Aug 11, 2023 7:49:16 AM org.openqa.selenium.manager.SeleniumManager getDriverPath
 INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
-Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 13652
+Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 15873
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-Jul 24, 2023 6:33:36 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 114, so returning the closest version found: 113
+[1691720368.426][WARNING]: This version of ChromeDriver has not been tested with Chrome version 115.
+Aug 11, 2023 7:49:29 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 115, so returning the closest version found: 113
 ]]></system-err>
   </testcase>
-  <testcase name="verifyloggingintoapplicationusingkeyboardkeys" classname="com.tutorialsninja.testcases.LoginTest" time="3.532"/>
-  <testcase name="verify_forgetpasswordlink_in_loginpage" classname="com.tutorialsninja.testcases.LoginTest" time="1.802"/>
-  <testcase name="verify_password_is_not_visible_in_pagesource" classname="com.tutorialsninja.testcases.LoginTest" time="0.422"/>
-  <testcase name="Verify_Logging_into_the_Application_closing_the_Browser_without_loggingout_and_opening_the_application_in_the_Browser_again" classname="com.tutorialsninja.testcases.LoginTest" time="33.667">
-    <system-err><![CDATA[Jul 24, 2023 6:34:09 PM org.openqa.selenium.remote.http.WebSocket$Listener onError
+  <testcase name="verifyloggingintoapplicationusingkeyboardkeys" classname="com.tutorialsninja.testcases.LoginTest" time="3.269"/>
+  <testcase name="verify_forgetpasswordlink_in_loginpage" classname="com.tutorialsninja.testcases.LoginTest" time="0.478"/>
+  <testcase name="verify_password_is_not_visible_in_pagesource" classname="com.tutorialsninja.testcases.LoginTest" time="0.517"/>
+  <testcase name="Verify_Logging_into_the_Application_closing_the_Browser_without_loggingout_and_opening_the_application_in_the_Browser_again" classname="com.tutorialsninja.testcases.LoginTest" time="36.709">
+    <system-err><![CDATA[Aug 11, 2023 7:49:59 AM org.openqa.selenium.remote.http.WebSocket$Listener onError
 WARNING: Connection reset
 java.net.SocketException: Connection reset
 	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
@@ -108,14 +113,15 @@ java.net.SocketException: Connection reset
 	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
 	at java.base/java.lang.Thread.run(Thread.java:833)
 
-Jul 24, 2023 6:34:09 PM org.openqa.selenium.manager.SeleniumManager getDriverPath
+Aug 11, 2023 7:50:00 AM org.openqa.selenium.manager.SeleniumManager getDriverPath
 INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
-Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 12751
+Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 44569
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-Jul 24, 2023 6:34:30 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 114, so returning the closest version found: 113
+[1691720413.634][WARNING]: This version of ChromeDriver has not been tested with Chrome version 115.
+Aug 11, 2023 7:50:14 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 115, so returning the closest version found: 113
 ]]></system-err>
   </testcase>
 </testsuite>
